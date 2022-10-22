@@ -1,5 +1,6 @@
 // Print the missing letters in a array while traversing:
-    #include <stdio.h>
+
+#include <stdio.h>
 
 int main() {
 
