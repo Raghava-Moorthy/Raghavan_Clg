@@ -63,4 +63,5 @@ int main() {
     // No element is missing print " -1 "
     if(cc==0)
         printf("-1");
+    return 0;
 }
